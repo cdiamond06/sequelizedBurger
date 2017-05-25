@@ -1,0 +1,30 @@
+body{
+	background-color: #faebd7;
+}
+
+li {
+  padding: 5px;
+  margin: 5px;
+  font-weight: : bold;
+}
+.port-imgs{
+	width: 30%;
+	height: 30%;
+}
+.title{
+	padding-left: 50%
+}
+.first{
+	float: left;
+	width: 33%;
+}
+
+.second{
+	float: right;
+	width: 33%;
+}
+
+.third{
+	float: center;
+	padding-left: 40%;
+}
